@@ -6,6 +6,6 @@
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 <br/>
-`gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension`
+`gatsby new AutoVoltz https://github.com/pb-10/AutoVoltz.git`
 
 Run `gatsby develop` in the terminal to start the dev site.
